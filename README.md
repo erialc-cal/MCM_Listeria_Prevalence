@@ -1,7 +1,7 @@
 # MCM_project
 Projet de 2e année à l'ENSAE pour le cours de Monte Carlo et simulations. 
 
-** Auteurs ** :
+**Auteurs** :
 Mathilde Binet, Robin Guillot, Claire He 
 
 **Sujet** : 
